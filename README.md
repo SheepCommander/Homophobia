@@ -5,3 +5,4 @@ Things we need to add
 - [ ] You cannot breed same gender together
 - [ ] Also add minecraft sex
 - [ ] If you try to breed the same gender together they will piss in your mouth
+- [ ] You do not know what gender they are 
